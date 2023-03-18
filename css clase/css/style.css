@@ -1,0 +1,22 @@
+#elemento_1, .elemento_2, h3{
+    text-align: center;
+    color: rgba(25, 52, 163, 0.649);
+    text-decoration: underline rgba(247, 151, 18);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: bold;
+}
+/*body{
+    background-image: url('../img/capybara.jpg');
+    background-repeat: no-repeat;
+    background-position: right top;
+}*/
+img{
+    float:right;
+}
+p{
+    margin:auto;
+    width: 80%;
+    border: 5px solid rgb(26, 166, 198);
+    padding: 50px;
+}
